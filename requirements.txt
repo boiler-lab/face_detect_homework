@@ -1,0 +1,8 @@
+scikit_image
+numpy
+terminaltables
+torch==1.1.0
+opencv_python
+torchvision
+Pillow
+skimage
